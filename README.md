@@ -9,9 +9,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Veereshsraykotmath&theme=algolia&column=7&margin-w=15&no-bg=true&no-frame=true" alt="Veereshsraykotmath" />
-  </a>
+  
 </p>
 
 <p align="center">
@@ -68,10 +66,7 @@ fun_fact: I edit videos and shoot visuals under @veeray__visuals 🎥
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Veereshsraykotmath&show_icons=true&locale=en&theme=default" alt="Veereshsraykotmath stats" width="49%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veereshsraykotmath&show_icons=true&locale=en&layout=compact&theme=default" alt="Veereshsraykotmath top languages" width="35%" />
-</p>
+
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=Veereshsraykotmath&theme=default" alt="Veereshsraykotmath streak stats" />
@@ -86,12 +81,8 @@ fun_fact: I edit videos and shoot visuals under @veeray__visuals 🎥
 <p align="left">
   <a href="https://linkedin.com/in/veeresh-s-raykotmath" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/veeray__visuals" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/veeray__visuals" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+
+
   </a>
 </p>
 
